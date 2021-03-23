@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+I'm currently working on Several projects listed below.
+Also seeking a full time position.
+
+
 Here's my [linkedin](https://www.linkedin.com/in/qifchen/)
 
 
-Here are my github stats.
+My github stats.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 
