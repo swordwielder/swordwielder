@@ -1,14 +1,14 @@
 ### Hi there 👋
 
+Here's my [linkedin](https://www.linkedin.com/in/qifchen/)
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder)](https://github.com/swordwielder/github-readme-stats)
-
-
+Here are my github stats.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swordwielder&layout=compact)](https://github.com/swordwielder/github-readme-stats)
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=issues&show_icons=true)
 
 <!--
 **swordwielder/swordwielder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
