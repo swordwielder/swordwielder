@@ -14,6 +14,8 @@ My github stats.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=swordwielder&hide=issues&show_icons=true)
 
+[![Contact me on Codementor](https://www.codementor.io/m-badges/qifenchen/find-me-on-cm-b.svg)](https://www.codementor.io/@qifenchen?refer=badge)
+
 <!--
 **swordwielder/swordwielder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
