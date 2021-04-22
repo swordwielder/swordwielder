@@ -4,7 +4,7 @@ I'm currently working on Several projects listed below.
 Also seeking a full time position.
 
 
-Here's my [linkedin](https://www.linkedin.com/in/qifchen/)
+Here's my [linkedin](https://www.linkedin.com/in/qifchen/) and [website](http://chenpost.com/)
 
 
 My github stats.
